@@ -52,6 +52,7 @@ sysinfo.txt
 
 # Builds
 *.apk
+*.bc
 *.unitypackage
 *.bc
 
